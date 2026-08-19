@@ -1,1 +1,1 @@
-hello everyone this is github hook -
+hello everyone this is gitHub Web-hook - method 
